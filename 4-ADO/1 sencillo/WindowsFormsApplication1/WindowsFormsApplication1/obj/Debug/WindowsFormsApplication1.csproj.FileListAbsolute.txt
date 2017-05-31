@@ -1,0 +1,14 @@
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\1 sencillo\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\_CFGS\CFGS DAM\M7\5- ADO\1 sencillo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\_CFGS\CFGS DAM\M7\5- ADO\1 sencillo\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

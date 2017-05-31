@@ -1,0 +1,16 @@
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\bin\Debug\ExempleDeClasse.exe.config
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\bin\Debug\ExempleDeClasse.exe
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\bin\Debug\ExempleDeClasse.pdb
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.Form1.resources
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.exe
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.pdb
+D:\Visual Studio 2015\Projects\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.About.resources
+F:\_CFGS\CFGS DAM\M7\Controls\ExempleDeClasse\ExempleDeClasse\bin\Debug\ExempleDeClasse.exe.config
+F:\_CFGS\CFGS DAM\M7\Controls\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.exe
+F:\_CFGS\CFGS DAM\M7\Controls\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.pdb
+E:\_CFGS\CFGS DAM\M7\Controls\ExempleDeClasse\ExempleDeClasse\bin\Debug\ExempleDeClasse.exe.config
+E:\_CFGS\CFGS DAM\M7\Controls\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.exe
+E:\_CFGS\CFGS DAM\M7\Controls\ExempleDeClasse\ExempleDeClasse\obj\Debug\ExempleDeClasse.pdb

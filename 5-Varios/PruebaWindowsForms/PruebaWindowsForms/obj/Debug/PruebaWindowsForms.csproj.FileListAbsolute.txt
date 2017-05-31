@@ -1,0 +1,12 @@
+F:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\bin\Debug\PruebaWindowsForms.exe.config
+F:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\bin\Debug\PruebaWindowsForms.exe
+F:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\bin\Debug\PruebaWindowsForms.pdb
+F:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\obj\Debug\PruebaWindowsForms.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\obj\Debug\PruebaWindowsForms.Form1.resources
+F:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\obj\Debug\PruebaWindowsForms.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\obj\Debug\PruebaWindowsForms.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\obj\Debug\PruebaWindowsForms.exe
+F:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\obj\Debug\PruebaWindowsForms.pdb
+E:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\bin\Debug\PruebaWindowsForms.exe.config
+E:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\obj\Debug\PruebaWindowsForms.exe
+E:\_CFGS\CFGS DAM\M7\PruebaWindowsForms\PruebaWindowsForms\obj\Debug\PruebaWindowsForms.pdb

@@ -1,0 +1,4 @@
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe.config
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\ControllerLayer.csprojResolveAssemblyReference.cache
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.Properties.Resources.resources
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\ControllerLayer.csproj.GenerateResource.Cache

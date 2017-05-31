@@ -1,0 +1,2 @@
+Nom;Cognoms;Mobil1;Mobil2;Telefono;Email;Modulos
+Nom2;Cognoms2;Mobil12;Mobil22;Telefono2;Email2;Modulos2

@@ -1,0 +1,12 @@
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 10\Exercici basic II 10\bin\Debug\Exercici basic II 10.exe.config
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 10\Exercici basic II 10\bin\Debug\Exercici basic II 10.exe
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 10\Exercici basic II 10\bin\Debug\Exercici basic II 10.pdb
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 10\Exercici basic II 10\obj\Debug\Exercici basic II 10.csprojResolveAssemblyReference.cache
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 10\Exercici basic II 10\obj\Debug\Exercici basic II 10.exe
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 10\Exercici basic II 10\obj\Debug\Exercici basic II 10.pdb
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 10\Exercici basic II 10\bin\Debug\Exercici basic II 10.exe.config
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 10\Exercici basic II 10\obj\Debug\Exercici basic II 10.exe
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 10\Exercici basic II 10\obj\Debug\Exercici basic II 10.pdb
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 10\Exercici basic II 10\obj\Debug\Exercici basic II 10.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 10\Exercici basic II 10\bin\Debug\Exercici basic II 10.exe
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 10\Exercici basic II 10\bin\Debug\Exercici basic II 10.pdb

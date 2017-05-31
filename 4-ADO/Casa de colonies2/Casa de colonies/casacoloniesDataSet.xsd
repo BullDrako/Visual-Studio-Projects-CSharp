@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="casacoloniesDataSet" targetNamespace="http://tempuri.org/casacoloniesDataSet.xsd" xmlns:mstns="http://tempuri.org/casacoloniesDataSet.xsd" xmlns="http://tempuri.org/casacoloniesDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="casacoloniesConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="casacoloniesConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Casa_de_colonies.Properties.Settings.GlobalReference.Default.casacoloniesConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="actividad_casaTableAdapter" GeneratorDataComponentClassName="actividad_casaTableAdapter" Name="actividad_casa" UserDataComponentName="actividad_casaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.actividad_casa" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `codigo_actividad`, `codigo_casa`, `nivel`, `calidad` FROM `actividad_casa`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="activitatTableAdapter" GeneratorDataComponentClassName="activitatTableAdapter" Name="activitat" UserDataComponentName="activitatTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.activitat" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `codigo`, `descripcion` FROM `activitat`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="administra_casaTableAdapter" GeneratorDataComponentClassName="administra_casaTableAdapter" Name="administra_casa" UserDataComponentName="administra_casaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.administra_casa" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `dni_administrador`, `codigo_casa`, `año`, `sueldo` FROM `administra_casa`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="administradorTableAdapter" GeneratorDataComponentClassName="administradorTableAdapter" Name="administrador" UserDataComponentName="administradorTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.administrador" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `dni`, `num_SS`, `titulacion` FROM `administrador`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="casaTableAdapter" GeneratorDataComponentClassName="casaTableAdapter" Name="casa" UserDataComponentName="casaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.casa" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `codigo`, `nombre`, `litoral`, `codigo_comarca` FROM `casa`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="comarcaTableAdapter" GeneratorDataComponentClassName="comarcaTableAdapter" Name="comarca" UserDataComponentName="comarcaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.comarca" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `codigo_comarca`, `nombre` FROM `comarca`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="inscripciones_casa_tandaTableAdapter" GeneratorDataComponentClassName="inscripciones_casa_tandaTableAdapter" Name="inscripciones_casa_tanda" UserDataComponentName="inscripciones_casa_tandaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.inscripciones_casa_tanda" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `carnet_niño`, `fecha_inicio`, `nombre_casa`, `numero_inscripcion` FROM `inscripciones_casa_tanda`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="monitorTableAdapter" GeneratorDataComponentClassName="monitorTableAdapter" Name="monitor" UserDataComponentName="monitorTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.monitor" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `dni`, `fecha_nacimiento` FROM `monitor`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="monitor_tanda_casaTableAdapter" GeneratorDataComponentClassName="monitor_tanda_casaTableAdapter" Name="monitor_tanda_casa" UserDataComponentName="monitor_tanda_casaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.monitor_tanda_casa" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `dni`, `fecha_tanda`, `codigo_casa` FROM `monitor_tanda_casa`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="monitor_tareas_tandaTableAdapter" GeneratorDataComponentClassName="monitor_tareas_tandaTableAdapter" Name="monitor_tareas_tanda" UserDataComponentName="monitor_tareas_tandaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.monitor_tareas_tanda" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `dni_monitor`, `codigo_tarea`, `fecha_inicio_tanda`, `dia_tarea` FROM `monitor_tareas_tanda`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="niñoTableAdapter" GeneratorDataComponentClassName="niñoTableAdapter" Name="niño" UserDataComponentName="niñoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.niño" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `carnet`, `nombre`, `apellidos`, `direccion`, `sexo`, `año_nacimiento`, `codigo_poblacion` FROM `niño`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="niño_emparentadoTableAdapter" GeneratorDataComponentClassName="niño_emparentadoTableAdapter" Name="niño_emparentado" UserDataComponentName="niño_emparentadoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.`niño_emparentado`" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `carnet_niño`, `carnet_hermano` FROM `niño_emparentado`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="personalTableAdapter" GeneratorDataComponentClassName="personalTableAdapter" Name="personal" UserDataComponentName="personalTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.personal" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `dni`, `nombre`, `apellidos`, `telefono`, `email` FROM `personal`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="poblacioTableAdapter" GeneratorDataComponentClassName="poblacioTableAdapter" Name="poblacio" UserDataComponentName="poblacioTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.poblacio" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `codigo`, `nombre` FROM `poblacio`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tandaTableAdapter" GeneratorDataComponentClassName="tandaTableAdapter" Name="tanda" UserDataComponentName="tandaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.tanda" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `fecha_inicio`, `fecha_fin` FROM `tanda`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tareasTableAdapter" GeneratorDataComponentClassName="tareasTableAdapter" Name="tareas" UserDataComponentName="tareasTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="casacoloniesConnectionString (Settings)" DbObjectName="casacolonies.tareas" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `codigo_tareas`, `descripcion` FROM `tareas`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="casacoloniesDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="casacoloniesDataSet" msprop:Generator_UserDSName="casacoloniesDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="actividad_casa" msprop:Generator_TableClassName="actividad_casaDataTable" msprop:Generator_TableVarName="tableactividad_casa" msprop:Generator_TablePropName="actividad_casa" msprop:Generator_RowDeletingName="actividad_casaRowDeleting" msprop:Generator_RowChangingName="actividad_casaRowChanging" msprop:Generator_RowEvHandlerName="actividad_casaRowChangeEventHandler" msprop:Generator_RowDeletedName="actividad_casaRowDeleted" msprop:Generator_UserTableName="actividad_casa" msprop:Generator_RowChangedName="actividad_casaRowChanged" msprop:Generator_RowEvArgName="actividad_casaRowChangeEvent" msprop:Generator_RowClassName="actividad_casaRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="activitat" msprop:Generator_TableClassName="activitatDataTable" msprop:Generator_TableVarName="tableactivitat" msprop:Generator_TablePropName="activitat" msprop:Generator_RowDeletingName="activitatRowDeleting" msprop:Generator_RowChangingName="activitatRowChanging" msprop:Generator_RowEvHandlerName="activitatRowChangeEventHandler" msprop:Generator_RowDeletedName="activitatRowDeleted" msprop:Generator_UserTableName="activitat" msprop:Generator_RowChangedName="activitatRowChanged" msprop:Generator_RowEvArgName="activitatRowChangeEvent" msprop:Generator_RowClassName="activitatRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="administra_casa" msprop:Generator_TableClassName="administra_casaDataTable" msprop:Generator_TableVarName="tableadministra_casa" msprop:Generator_TablePropName="administra_casa" msprop:Generator_RowDeletingName="administra_casaRowDeleting" msprop:Generator_RowChangingName="administra_casaRowChanging" msprop:Generator_RowEvHandlerName="administra_casaRowChangeEventHandler" msprop:Generator_RowDeletedName="administra_casaRowDeleted" msprop:Generator_UserTableName="administra_casa" msprop:Generator_RowChangedName="administra_casaRowChanged" msprop:Generator_RowEvArgName="administra_casaRowChangeEvent" msprop:Generator_RowClassName="administra_casaRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="administrador" msprop:Generator_TableClassName="administradorDataTable" msprop:Generator_TableVarName="tableadministrador" msprop:Generator_TablePropName="administrador" msprop:Generator_RowDeletingName="administradorRowDeleting" msprop:Generator_RowChangingName="administradorRowChanging" msprop:Generator_RowEvHandlerName="administradorRowChangeEventHandler" msprop:Generator_RowDeletedName="administradorRowDeleted" msprop:Generator_UserTableName="administrador" msprop:Generator_RowChangedName="administradorRowChanged" msprop:Generator_RowEvArgName="administradorRowChangeEvent" msprop:Generator_RowClassName="administradorRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="casa" msprop:Generator_TableClassName="casaDataTable" msprop:Generator_TableVarName="tablecasa" msprop:Generator_TablePropName="casa" msprop:Generator_RowDeletingName="casaRowDeleting" msprop:Generator_RowChangingName="casaRowChanging" msprop:Generator_RowEvHandlerName="casaRowChangeEventHandler" msprop:Generator_RowDeletedName="casaRowDeleted" msprop:Generator_UserTableName="casa" msprop:Generator_RowChangedName="casaRowChanged" msprop:Generator_RowEvArgName="casaRowChangeEvent" msprop:Generator_RowClassName="casaRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="comarca" msprop:Generator_TableClassName="comarcaDataTable" msprop:Generator_TableVarName="tablecomarca" msprop:Generator_TablePropName="comarca" msprop:Generator_RowDeletingName="comarcaRowDeleting" msprop:Generator_RowChangingName="comarcaRowChanging" msprop:Generator_RowEvHandlerName="comarcaRowChangeEventHandler" msprop:Generator_RowDeletedName="comarcaRowDeleted" msprop:Generator_UserTableName="comarca" msprop:Generator_RowChangedName="comarcaRowChanged" msprop:Generator_RowEvArgName="comarcaRowChangeEvent" msprop:Generator_RowClassName="comarcaRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="inscripciones_casa_tanda" msprop:Generator_TableClassName="inscripciones_casa_tandaDataTable" msprop:Generator_TableVarName="tableinscripciones_casa_tanda" msprop:Generator_TablePropName="inscripciones_casa_tanda" msprop:Generator_RowDeletingName="inscripciones_casa_tandaRowDeleting" msprop:Generator_RowChangingName="inscripciones_casa_tandaRowChanging" msprop:Generator_RowEvHandlerName="inscripciones_casa_tandaRowChangeEventHandler" msprop:Generator_RowDeletedName="inscripciones_casa_tandaRowDeleted" msprop:Generator_UserTableName="inscripciones_casa_tanda" msprop:Generator_RowChangedName="inscripciones_casa_tandaRowChanged" msprop:Generator_RowEvArgName="inscripciones_casa_tandaRowChangeEvent" msprop:Generator_RowClassName="inscripciones_casa_tandaRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="monitor" msprop:Generator_TableClassName="monitorDataTable" msprop:Generator_TableVarName="tablemonitor" msprop:Generator_TablePropName="monitor" msprop:Generator_RowDeletingName="monitorRowDeleting" msprop:Generator_RowChangingName="monitorRowChanging" msprop:Generator_RowEvHandlerName="monitorRowChangeEventHandler" msprop:Generator_RowDeletedName="monitorRowDeleted" msprop:Generator_UserTableName="monitor" msprop:Generator_RowChangedName="monitorRowChanged" msprop:Generator_RowEvArgName="monitorRowChangeEvent" msprop:Generator_RowClassName="monitorRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="monitor_tanda_casa" msprop:Generator_TableClassName="monitor_tanda_casaDataTable" msprop:Generator_TableVarName="tablemonitor_tanda_casa" msprop:Generator_TablePropName="monitor_tanda_casa" msprop:Generator_RowDeletingName="monitor_tanda_casaRowDeleting" msprop:Generator_RowChangingName="monitor_tanda_casaRowChanging" msprop:Generator_RowEvHandlerName="monitor_tanda_casaRowChangeEventHandler" msprop:Generator_RowDeletedName="monitor_tanda_casaRowDeleted" msprop:Generator_UserTableName="monitor_tanda_casa" msprop:Generator_RowChangedName="monitor_tanda_casaRowChanged" msprop:Generator_RowEvArgName="monitor_tanda_casaRowChangeEvent" msprop:Generator_RowClassName="monitor_tanda_casaRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="monitor_tareas_tanda" msprop:Generator_TableClassName="monitor_tareas_tandaDataTable" msprop:Generator_TableVarName="tablemonitor_tareas_tanda" msprop:Generator_TablePropName="monitor_tareas_tanda" msprop:Generator_RowDeletingName="monitor_tareas_tandaRowDeleting" msprop:Generator_RowChangingName="monitor_tareas_tandaRowChanging" msprop:Generator_RowEvHandlerName="monitor_tareas_tandaRowChangeEventHandler" msprop:Generator_RowDeletedName="monitor_tareas_tandaRowDeleted" msprop:Generator_UserTableName="monitor_tareas_tanda" msprop:Generator_RowChangedName="monitor_tareas_tandaRowChanged" msprop:Generator_RowEvArgName="monitor_tareas_tandaRowChangeEvent" msprop:Generator_RowClassName="monitor_tareas_tandaRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="niño" msprop:Generator_TableClassName="niñoDataTable" msprop:Generator_TableVarName="tableniño" msprop:Generator_TablePropName="niño" msprop:Generator_RowDeletingName="niñoRowDeleting" msprop:Generator_RowChangingName="niñoRowChanging" msprop:Generator_RowEvHandlerName="niñoRowChangeEventHandler" msprop:Generator_RowDeletedName="niñoRowDeleted" msprop:Generator_UserTableName="niño" msprop:Generator_RowChangedName="niñoRowChanged" msprop:Generator_RowEvArgName="niñoRowChangeEvent" msprop:Generator_RowClassName="niñoRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="niño_emparentado" msprop:Generator_TableClassName="niño_emparentadoDataTable" msprop:Generator_TableVarName="tableniño_emparentado" msprop:Generator_TablePropName="niño_emparentado" msprop:Generator_RowDeletingName="niño_emparentadoRowDeleting" msprop:Generator_RowChangingName="niño_emparentadoRowChanging" msprop:Generator_RowEvHandlerName="niño_emparentadoRowChangeEventHandler" msprop:Generator_RowDeletedName="niño_emparentadoRowDeleted" msprop:Generator_UserTableName="niño_emparentado" msprop:Generator_RowChangedName="niño_emparentadoRowChanged" msprop:Generator_RowEvArgName="niño_emparentadoRowChangeEvent" msprop:Generator_RowClassName="niño_emparentadoRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="personal" msprop:Generator_TableClassName="personalDataTable" msprop:Generator_TableVarName="tablepersonal" msprop:Generator_TablePropName="personal" msprop:Generator_RowDeletingName="personalRowDeleting" msprop:Generator_RowChangingName="personalRowChanging" msprop:Generator_RowEvHandlerName="personalRowChangeEventHandler" msprop:Generator_RowDeletedName="personalRowDeleted" msprop:Generator_UserTableName="personal" msprop:Generator_RowChangedName="personalRowChanged" msprop:Generator_RowEvArgName="personalRowChangeEvent" msprop:Generator_RowClassName="personalRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="poblacio" msprop:Generator_TableClassName="poblacioDataTable" msprop:Generator_TableVarName="tablepoblacio" msprop:Generator_TablePropName="poblacio" msprop:Generator_RowDeletingName="poblacioRowDeleting" msprop:Generator_RowChangingName="poblacioRowChanging" msprop:Generator_RowEvHandlerName="poblacioRowChangeEventHandler" msprop:Generator_RowDeletedName="poblacioRowDeleted" msprop:Generator_UserTableName="poblacio" msprop:Generator_RowChangedName="poblacioRowChanged" msprop:Generator_RowEvArgName="poblacioRowChangeEvent" msprop:Generator_RowClassName="poblacioRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tanda" msprop:Generator_TableClassName="tandaDataTable" msprop:Generator_TableVarName="tabletanda" msprop:Generator_TablePropName="tanda" msprop:Generator_RowDeletingName="tandaRowDeleting" msprop:Generator_RowChangingName="tandaRowChanging" msprop:Generator_RowEvHandlerName="tandaRowChangeEventHandler" msprop:Generator_RowDeletedName="tandaRowDeleted" msprop:Generator_UserTableName="tanda" msprop:Generator_RowChangedName="tandaRowChanged" msprop:Generator_RowEvArgName="tandaRowChangeEvent" msprop:Generator_RowClassName="tandaRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tareas" msprop:Generator_TableClassName="tareasDataTable" msprop:Generator_TableVarName="tabletareas" msprop:Generator_TablePropName="tareas" msprop:Generator_RowDeletingName="tareasRowDeleting" msprop:Generator_RowChangingName="tareasRowChanging" msprop:Generator_RowEvHandlerName="tareasRowChangeEventHandler" msprop:Generator_RowDeletedName="tareasRowDeleted" msprop:Generator_UserTableName="tareas" msprop:Generator_RowChangedName="tareasRowChanged" msprop:Generator_RowEvArgName="tareasRowChangeEvent" msprop:Generator_RowClassName="tareasRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

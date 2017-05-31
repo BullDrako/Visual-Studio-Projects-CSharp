@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="cuinaModelStoreContainer" CdmEntityContainer="cuinaEntities">
+    <EntitySetMapping Name="categories">
+      <EntityTypeMapping TypeName="cuinaModel.categories">
+        <MappingFragment StoreEntitySet="categories">
+          <ScalarProperty Name="idCategoria" ColumnName="idCategoria" />
+          <ScalarProperty Name="nomCategoria" ColumnName="nomCategoria" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="receptes">
+      <EntityTypeMapping TypeName="cuinaModel.receptes">
+        <MappingFragment StoreEntitySet="receptes">
+          <ScalarProperty Name="nomRecepta" ColumnName="nomRecepta" />
+          <ScalarProperty Name="idCategoria" ColumnName="idCategoria" />
+          <ScalarProperty Name="tempsPreparacioMinuts" ColumnName="tempsPreparacioMinuts" />
+          <ScalarProperty Name="ingredients" ColumnName="ingredients" />
+          <ScalarProperty Name="descripcioPreparacio" ColumnName="descripcioPreparacio" />
+          <ScalarProperty Name="dificultat" ColumnName="dificultat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

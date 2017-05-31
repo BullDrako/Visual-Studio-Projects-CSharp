@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="casacoloniesModelStoreContainer" CdmEntityContainer="casacoloniesEntities">
+    <EntitySetMapping Name="actividad_casa">
+      <EntityTypeMapping TypeName="casacoloniesModel.actividad_casa">
+        <MappingFragment StoreEntitySet="actividad_casa">
+          <ScalarProperty Name="codigo_actividad" ColumnName="codigo_actividad" />
+          <ScalarProperty Name="codigo_casa" ColumnName="codigo_casa" />
+          <ScalarProperty Name="nivel" ColumnName="nivel" />
+          <ScalarProperty Name="calidad" ColumnName="calidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="activitat">
+      <EntityTypeMapping TypeName="casacoloniesModel.activitat">
+        <MappingFragment StoreEntitySet="activitat">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="administra_casa">
+      <EntityTypeMapping TypeName="casacoloniesModel.administra_casa">
+        <MappingFragment StoreEntitySet="administra_casa">
+          <ScalarProperty Name="dni_administrador" ColumnName="dni_administrador" />
+          <ScalarProperty Name="codigo_casa" ColumnName="codigo_casa" />
+          <ScalarProperty Name="año" ColumnName="año" />
+          <ScalarProperty Name="sueldo" ColumnName="sueldo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="administrador">
+      <EntityTypeMapping TypeName="casacoloniesModel.administrador">
+        <MappingFragment StoreEntitySet="administrador">
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="num_SS" ColumnName="num_SS" />
+          <ScalarProperty Name="titulacion" ColumnName="titulacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="casa">
+      <EntityTypeMapping TypeName="casacoloniesModel.casa">
+        <MappingFragment StoreEntitySet="casa">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="litoral" ColumnName="litoral" />
+          <ScalarProperty Name="codigo_comarca" ColumnName="codigo_comarca" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="comarca">
+      <EntityTypeMapping TypeName="casacoloniesModel.comarca">
+        <MappingFragment StoreEntitySet="comarca">
+          <ScalarProperty Name="codigo_comarca" ColumnName="codigo_comarca" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inscripciones_casa_tanda">
+      <EntityTypeMapping TypeName="casacoloniesModel.inscripciones_casa_tanda">
+        <MappingFragment StoreEntitySet="inscripciones_casa_tanda">
+          <ScalarProperty Name="carnet_niño" ColumnName="carnet_niño" />
+          <ScalarProperty Name="fecha_inicio" ColumnName="fecha_inicio" />
+          <ScalarProperty Name="nombre_casa" ColumnName="nombre_casa" />
+          <ScalarProperty Name="numero_inscripcion" ColumnName="numero_inscripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="monitor">
+      <EntityTypeMapping TypeName="casacoloniesModel.monitor">
+        <MappingFragment StoreEntitySet="monitor">
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="fecha_nacimiento" ColumnName="fecha_nacimiento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="monitor_tanda_casa">
+      <EntityTypeMapping TypeName="casacoloniesModel.monitor_tanda_casa">
+        <MappingFragment StoreEntitySet="monitor_tanda_casa">
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="fecha_tanda" ColumnName="fecha_tanda" />
+          <ScalarProperty Name="codigo_casa" ColumnName="codigo_casa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="monitor_tareas_tanda">
+      <EntityTypeMapping TypeName="casacoloniesModel.monitor_tareas_tanda">
+        <MappingFragment StoreEntitySet="monitor_tareas_tanda">
+          <ScalarProperty Name="dni_monitor" ColumnName="dni_monitor" />
+          <ScalarProperty Name="codigo_tarea" ColumnName="codigo_tarea" />
+          <ScalarProperty Name="fecha_inicio_tanda" ColumnName="fecha_inicio_tanda" />
+          <ScalarProperty Name="dia_tarea" ColumnName="dia_tarea" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="niño">
+      <EntityTypeMapping TypeName="casacoloniesModel.niño">
+        <MappingFragment StoreEntitySet="niño">
+          <ScalarProperty Name="carnet" ColumnName="carnet" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="sexo" ColumnName="sexo" />
+          <ScalarProperty Name="año_nacimiento" ColumnName="año_nacimiento" />
+          <ScalarProperty Name="codigo_poblacion" ColumnName="codigo_poblacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="niño_emparentado">
+      <EntityTypeMapping TypeName="casacoloniesModel.niño_emparentado">
+        <MappingFragment StoreEntitySet="niño_emparentado">
+          <ScalarProperty Name="carnet_niño" ColumnName="carnet_niño" />
+          <ScalarProperty Name="carnet_hermano" ColumnName="carnet_hermano" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="personal">
+      <EntityTypeMapping TypeName="casacoloniesModel.personal">
+        <MappingFragment StoreEntitySet="personal">
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="poblacio">
+      <EntityTypeMapping TypeName="casacoloniesModel.poblacio">
+        <MappingFragment StoreEntitySet="poblacio">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tanda">
+      <EntityTypeMapping TypeName="casacoloniesModel.tanda">
+        <MappingFragment StoreEntitySet="tanda">
+          <ScalarProperty Name="fecha_inicio" ColumnName="fecha_inicio" />
+          <ScalarProperty Name="fecha_fin" ColumnName="fecha_fin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tareas">
+      <EntityTypeMapping TypeName="casacoloniesModel.tareas">
+        <MappingFragment StoreEntitySet="tareas">
+          <ScalarProperty Name="codigo_tareas" ColumnName="codigo_tareas" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,9 @@
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\examen1_M7_DAM_Edgar_Cabeza\examen1_M7_DAM_Edgar_Cabeza\bin\Debug\examen1_M7_DAM_Edgar_Cabeza.exe.config
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\examen1_M7_DAM_Edgar_Cabeza\examen1_M7_DAM_Edgar_Cabeza\bin\Debug\examen1_M7_DAM_Edgar_Cabeza.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\examen1_M7_DAM_Edgar_Cabeza\examen1_M7_DAM_Edgar_Cabeza\bin\Debug\examen1_M7_DAM_Edgar_Cabeza.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\examen1_M7_DAM_Edgar_Cabeza\examen1_M7_DAM_Edgar_Cabeza\obj\Debug\examen1_M7_DAM_Edgar_Cabeza.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\examen1_M7_DAM_Edgar_Cabeza\examen1_M7_DAM_Edgar_Cabeza\obj\Debug\examen1_M7_DAM_Edgar_Cabeza.Form1.resources
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\examen1_M7_DAM_Edgar_Cabeza\examen1_M7_DAM_Edgar_Cabeza\obj\Debug\examen1_M7_DAM_Edgar_Cabeza.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\examen1_M7_DAM_Edgar_Cabeza\examen1_M7_DAM_Edgar_Cabeza\obj\Debug\examen1_M7_DAM_Edgar_Cabeza.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\examen1_M7_DAM_Edgar_Cabeza\examen1_M7_DAM_Edgar_Cabeza\obj\Debug\examen1_M7_DAM_Edgar_Cabeza.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\examen1_M7_DAM_Edgar_Cabeza\examen1_M7_DAM_Edgar_Cabeza\obj\Debug\examen1_M7_DAM_Edgar_Cabeza.pdb

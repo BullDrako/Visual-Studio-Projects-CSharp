@@ -1,0 +1,30 @@
+instalar mysql for visual studio
+
+herramientas --> conectar con base de datos --> poner los datos
+
+herramientas --> administrar paquetes nugets --> Entity Framework --> instalar
+mysql data entity --> instalar
+
+
+agregar nuevo elemento --> ado.net entity data model
+
+EF Designer desde base --> siguiente
+si, incluir
+
+
+
+
+ private void button1_Click(object sender, EventArgs e)
+        {
+            //insert
+            String usuari = textBox1.Text;
+            String contrasenya = textBox2.Text;
+
+            user u = new user();
+            u.username = usuari; //u.setUsername(usuari) en java
+            u.password = contrasenya;
+
+            db.user.Add(u);//afegir
+            db.SaveChanges();//guardar
+        }
+

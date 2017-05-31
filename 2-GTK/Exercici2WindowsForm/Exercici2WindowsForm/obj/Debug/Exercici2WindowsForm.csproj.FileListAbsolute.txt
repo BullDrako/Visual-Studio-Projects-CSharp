@@ -1,0 +1,9 @@
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici2WindowsForm\Exercici2WindowsForm\bin\Debug\Exercici2WindowsForm.exe.config
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici2WindowsForm\Exercici2WindowsForm\bin\Debug\Exercici2WindowsForm.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici2WindowsForm\Exercici2WindowsForm\bin\Debug\Exercici2WindowsForm.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici2WindowsForm\Exercici2WindowsForm\obj\Debug\Exercici2WindowsForm.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici2WindowsForm\Exercici2WindowsForm\obj\Debug\Exercici2WindowsForm.Form1.resources
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici2WindowsForm\Exercici2WindowsForm\obj\Debug\Exercici2WindowsForm.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici2WindowsForm\Exercici2WindowsForm\obj\Debug\Exercici2WindowsForm.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici2WindowsForm\Exercici2WindowsForm\obj\Debug\Exercici2WindowsForm.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici2WindowsForm\Exercici2WindowsForm\obj\Debug\Exercici2WindowsForm.pdb

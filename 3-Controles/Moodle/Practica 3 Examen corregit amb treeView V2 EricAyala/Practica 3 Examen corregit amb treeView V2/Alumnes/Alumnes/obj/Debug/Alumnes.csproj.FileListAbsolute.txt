@@ -1,0 +1,35 @@
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\bin\Debug\Alumnes.exe.config
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\bin\Debug\Alumnes.exe
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\bin\Debug\Alumnes.pdb
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.csprojResolveAssemblyReference.cache
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.Form1.resources
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.Properties.Resources.resources
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.csproj.GenerateResource.Cache
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.exe
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.pdb
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.Editar.resources
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\bin\Debug\Alumnes.exe.config
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.exe
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.pdb
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\bin\Debug\Alumnes.exe
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\bin\Debug\Alumnes.pdb
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.csprojResolveAssemblyReference.cache
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.Editar.resources
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.Form1.resources
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.Properties.Resources.resources
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.csproj.GenerateResource.Cache
+E:\Practica 3 Examen corregit amb treeView\Alumnes\Alumnes\obj\Debug\Alumnes.Nou.resources
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\bin\Debug\Alumnes.exe.config
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.exe
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.pdb
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.csprojResolveAssemblyReference.cache
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.Editar.resources
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.Form1.resources
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.Nou.resources
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.Properties.Resources.resources
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.csproj.GenerateResource.Cache
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\bin\Debug\Alumnes.exe
+E:\M07 DI\UF1\NF2\Practiques\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\bin\Debug\Alumnes.pdb
+C:\Users\Edgar\Downloads\Practica 3 Examen corregit amb treeView V2 EricAyala\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\bin\Debug\Alumnes.exe.config
+C:\Users\Edgar\Downloads\Practica 3 Examen corregit amb treeView V2 EricAyala\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.exe
+C:\Users\Edgar\Downloads\Practica 3 Examen corregit amb treeView V2 EricAyala\Practica 3 Examen corregit amb treeView V2\Alumnes\Alumnes\obj\Debug\Alumnes.pdb

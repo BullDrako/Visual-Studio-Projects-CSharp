@@ -1,0 +1,11 @@
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Edgar\Documents\Visual Studio 2015\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\_CFGS\CFGS DAM\M7\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\_CFGS\CFGS DAM\M7\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\_CFGS\CFGS DAM\M7\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+E:\_CFGS\CFGS DAM\M7\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\_CFGS\CFGS DAM\M7\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\_CFGS\CFGS DAM\M7\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache

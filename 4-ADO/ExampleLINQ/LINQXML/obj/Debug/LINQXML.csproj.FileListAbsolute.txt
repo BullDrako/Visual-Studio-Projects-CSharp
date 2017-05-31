@@ -1,0 +1,6 @@
+E:\backup\Susana\M7-DAM\ExampleLINQ\LINQXML\bin\Debug\LINQXML.exe.config
+E:\backup\Susana\M7-DAM\ExampleLINQ\LINQXML\bin\Debug\LINQXML.exe
+E:\backup\Susana\M7-DAM\ExampleLINQ\LINQXML\bin\Debug\LINQXML.pdb
+E:\backup\Susana\M7-DAM\ExampleLINQ\LINQXML\obj\Debug\LINQXML.csprojResolveAssemblyReference.cache
+E:\backup\Susana\M7-DAM\ExampleLINQ\LINQXML\obj\Debug\LINQXML.exe
+E:\backup\Susana\M7-DAM\ExampleLINQ\LINQXML\obj\Debug\LINQXML.pdb

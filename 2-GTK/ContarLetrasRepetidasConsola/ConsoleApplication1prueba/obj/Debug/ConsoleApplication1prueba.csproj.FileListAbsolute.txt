@@ -1,0 +1,8 @@
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\ConsoleApplication1prueba\ConsoleApplication1prueba\bin\Debug\ConsoleApplication1prueba.exe.config
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\ConsoleApplication1prueba\ConsoleApplication1prueba\bin\Debug\ConsoleApplication1prueba.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\ConsoleApplication1prueba\ConsoleApplication1prueba\bin\Debug\ConsoleApplication1prueba.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\ConsoleApplication1prueba\ConsoleApplication1prueba\obj\Debug\ConsoleApplication1prueba.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\ConsoleApplication1prueba\ConsoleApplication1prueba\obj\Debug\ConsoleApplication1prueba.pdb
+F:\_CFGS\CFGS DAM\M7\GTK\ContarLetrasRepetidas\ConsoleApplication1prueba\bin\Debug\ConsoleApplication1prueba.exe.config
+F:\_CFGS\CFGS DAM\M7\GTK\ContarLetrasRepetidas\ConsoleApplication1prueba\obj\Debug\ConsoleApplication1prueba.exe
+F:\_CFGS\CFGS DAM\M7\GTK\ContarLetrasRepetidas\ConsoleApplication1prueba\obj\Debug\ConsoleApplication1prueba.pdb

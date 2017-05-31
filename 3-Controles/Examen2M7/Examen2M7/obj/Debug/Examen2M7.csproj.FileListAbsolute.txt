@@ -1,0 +1,24 @@
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\bin\Debug\Examen2M7.exe.config
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\bin\Debug\Examen2M7.exe
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\bin\Debug\Examen2M7.pdb
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.csprojResolveAssemblyReference.cache
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.Form1.resources
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.Properties.Resources.resources
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.csproj.GenerateResource.Cache
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.exe
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.pdb
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.AdminForm.resources
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.AfegirForm.resources
+E:\_CFGS\CFGS DAM\M7\Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.SaleForm.resources
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\bin\Debug\Examen2M7.exe.config
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.exe
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.pdb
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\bin\Debug\Examen2M7.exe
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\bin\Debug\Examen2M7.pdb
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.csprojResolveAssemblyReference.cache
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.AdminForm.resources
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.AfegirForm.resources
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.Form1.resources
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.Properties.Resources.resources
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.SaleForm.resources
+E:\_CFGS\CFGS DAM\M7\3- Controls\Examen2M7\Examen2M7\obj\Debug\Examen2M7.csproj.GenerateResource.Cache

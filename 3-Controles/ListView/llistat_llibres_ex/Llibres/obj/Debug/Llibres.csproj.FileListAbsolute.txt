@@ -1,0 +1,49 @@
+H:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\bin\Debug\Llibres.exe.config
+E:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\bin\Debug\Llibres.exe.config
+E:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\bin\Debug\Llibres.exe
+E:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\bin\Debug\Llibres.pdb
+E:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\obj\Debug\Llibres.csprojResolveAssemblyReference.cache
+E:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\obj\Debug\Llibres.Form1.resources
+E:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\obj\Debug\Llibres.Properties.Resources.resources
+E:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\obj\Debug\Llibres.csproj.GenerateResource.Cache
+E:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\obj\Debug\Llibres.exe
+E:\des interfaces\components visuals\ex_Llibres\Llibres\Llibres\obj\Debug\Llibres.pdb
+E:\des interfaces\components visuals\llistat_llibres_ex\Llibres\bin\Debug\Llibres.exe.config
+E:\des interfaces\components visuals\llistat_llibres_ex\Llibres\obj\Debug\Llibres.exe
+E:\des interfaces\components visuals\llistat_llibres_ex\Llibres\obj\Debug\Llibres.pdb
+E:\des interfaces\components visuals\llistat_llibres_ex\Llibres\bin\Debug\Llibres.exe
+E:\des interfaces\components visuals\llistat_llibres_ex\Llibres\bin\Debug\Llibres.pdb
+E:\des interfaces\components visuals\llistat_llibres_ex\Llibres\obj\Debug\Llibres.csprojResolveAssemblyReference.cache
+E:\des interfaces\components visuals\llistat_llibres_ex\Llibres\obj\Debug\Llibres.Form1.resources
+E:\des interfaces\components visuals\llistat_llibres_ex\Llibres\obj\Debug\Llibres.Properties.Resources.resources
+E:\des interfaces\components visuals\llistat_llibres_ex\Llibres\obj\Debug\Llibres.csproj.GenerateResource.Cache
+C:\Users\Alumne\Desktop\llistat_llibres_ex\Llibres\bin\Debug\Llibres.exe.config
+C:\Users\Alumne\Desktop\llistat_llibres_ex\Llibres\obj\Debug\Llibres.exe
+C:\Users\Alumne\Desktop\llistat_llibres_ex\Llibres\obj\Debug\Llibres.pdb
+C:\Users\Alumne\Desktop\llistat_llibres_ex\Llibres\bin\Debug\Llibres.exe
+C:\Users\Alumne\Desktop\llistat_llibres_ex\Llibres\bin\Debug\Llibres.pdb
+C:\Users\Alumne\Desktop\llistat_llibres_ex\Llibres\obj\Debug\Llibres.csprojResolveAssemblyReference.cache
+C:\Users\Alumne\Desktop\llistat_llibres_ex\Llibres\obj\Debug\Llibres.Form1.resources
+C:\Users\Alumne\Desktop\llistat_llibres_ex\Llibres\obj\Debug\Llibres.Properties.Resources.resources
+C:\Users\Alumne\Desktop\llistat_llibres_ex\Llibres\obj\Debug\Llibres.csproj.GenerateResource.Cache
+\\VBOXSVR\Documents\llistat_llibres_ex\Llibres\bin\Debug\Llibres.exe.config
+\\VBOXSVR\Documents\llistat_llibres_ex\Llibres\obj\Debug\Llibres.exe
+\\VBOXSVR\Documents\llistat_llibres_ex\Llibres\obj\Debug\Llibres.pdb
+\\VBOXSVR\Documents\llistat_llibres_ex\Llibres\bin\Debug\Llibres.exe
+\\VBOXSVR\Documents\llistat_llibres_ex\Llibres\bin\Debug\Llibres.pdb
+\\VBOXSVR\Documents\llistat_llibres_ex\Llibres\obj\Debug\Llibres.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Documents\llistat_llibres_ex\Llibres\obj\Debug\Llibres.Form1.resources
+\\VBOXSVR\Documents\llistat_llibres_ex\Llibres\obj\Debug\Llibres.Properties.Resources.resources
+\\VBOXSVR\Documents\llistat_llibres_ex\Llibres\obj\Debug\Llibres.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\Controls\ListView\llistat_llibres_ex\Llibres\bin\Debug\Llibres.exe.config
+F:\_CFGS\CFGS DAM\M7\Controls\ListView\llistat_llibres_ex\Llibres\obj\Debug\Llibres.exe
+F:\_CFGS\CFGS DAM\M7\Controls\ListView\llistat_llibres_ex\Llibres\obj\Debug\Llibres.pdb
+F:\_CFGS\CFGS DAM\M7\Controls\ListView\llistat_llibres_ex\Llibres\bin\Debug\Llibres.exe
+F:\_CFGS\CFGS DAM\M7\Controls\ListView\llistat_llibres_ex\Llibres\bin\Debug\Llibres.pdb
+F:\_CFGS\CFGS DAM\M7\Controls\ListView\llistat_llibres_ex\Llibres\obj\Debug\Llibres.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\Controls\ListView\llistat_llibres_ex\Llibres\obj\Debug\Llibres.Form1.resources
+F:\_CFGS\CFGS DAM\M7\Controls\ListView\llistat_llibres_ex\Llibres\obj\Debug\Llibres.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\Controls\ListView\llistat_llibres_ex\Llibres\obj\Debug\Llibres.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\3- Controls\ListView\llistat_llibres_ex\Llibres\bin\Debug\Llibres.exe.config
+F:\_CFGS\CFGS DAM\M7\3- Controls\ListView\llistat_llibres_ex\Llibres\obj\Debug\Llibres.exe
+F:\_CFGS\CFGS DAM\M7\3- Controls\ListView\llistat_llibres_ex\Llibres\obj\Debug\Llibres.pdb

@@ -1,0 +1,81 @@
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe.config
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.pdb
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.exe
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.pdb
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Form1.resources
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.dll
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.dll
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.pdb
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.pdb
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormBooks.resources
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormLogin.resources
+J:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe.config
+J:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.exe
+J:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe.config
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.exe
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.dll
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.dll
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormBooks.resources
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Form1.resources
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormLogin.resources
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Properties.Resources.resources
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+E:\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe.config
+E:\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.exe
+E:\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.pdb
+E:\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe
+E:\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.pdb
+E:\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.dll
+E:\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.dll
+E:\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.pdb
+E:\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.pdb
+E:\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+E:\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormBooks.resources
+E:\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Form1.resources
+E:\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormLogin.resources
+E:\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe.config
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\MySql.Data.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\MySql.Data.xml
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormBooks.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Form1.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormLogin.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe.config
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.exe
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\ExempleConnection.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.exe
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\ExempleConnection.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\PresentationLayer.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\MySql.Data.xml
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\bin\Debug\DataLayer.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormBooks.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Form1.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.FormLogin.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\ExempleConnection\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache

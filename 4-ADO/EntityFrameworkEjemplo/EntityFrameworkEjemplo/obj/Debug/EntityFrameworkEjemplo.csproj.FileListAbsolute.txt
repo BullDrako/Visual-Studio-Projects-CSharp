@@ -1,0 +1,16 @@
+D:\Visual Studio 2015\Projects\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\EntityFrameworkEjemplo.exe.config
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\EntityFrameworkEjemplo.exe.config
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\EntityFrameworkEjemplo.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\EntityFrameworkEjemplo.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\EntityFramework.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\EntityFramework.SqlServer.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\MySql.Data.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\EntityFramework.xml
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\bin\Debug\EntityFramework.SqlServer.xml
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\obj\Debug\EntityFrameworkEjemplo.csprojResolveAssemblyReference.cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\obj\Debug\EntityFrameworkEjemplo.Form1.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\obj\Debug\EntityFrameworkEjemplo.Properties.Resources.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\obj\Debug\EntityFrameworkEjemplo.csproj.GenerateResource.Cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\obj\Debug\EntityFrameworkEjemplo.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\EntityFrameworkEjemplo\EntityFrameworkEjemplo\obj\Debug\EntityFrameworkEjemplo.pdb

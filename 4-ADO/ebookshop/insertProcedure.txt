@@ -1,0 +1,4 @@
+CREATE DEFINER=`root`@`localhost` PROCEDURE `insertBook`(IN `titol` VARCHAR(50), IN `autor` VARCHAR(50), IN `preu` FLOAT, IN `quantity` INT(11))
+    NO SQL
+    SQL SECURITY INVOKER
+INSERT INTO book VALUES(null, titol, autor, preu, quantity)

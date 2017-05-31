@@ -1,0 +1,28 @@
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\bin\Debug\DataLayer.dll
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\bin\Debug\DataLayer.pdb
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\obj\Debug\DataLayer.dll
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\obj\Debug\DataLayer.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\bin\Debug\DataLayer.dll
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\bin\Debug\DataLayer.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\obj\Debug\DataLayer.dll
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\DataLayer\obj\Debug\DataLayer.pdb
+E:\ExempleConnection\DataLayer\bin\Debug\DataLayer.dll
+E:\ExempleConnection\DataLayer\bin\Debug\DataLayer.pdb
+E:\ExempleConnection\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\ExempleConnection\DataLayer\obj\Debug\DataLayer.dll
+E:\ExempleConnection\DataLayer\obj\Debug\DataLayer.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\bin\Debug\DataLayer.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\bin\Debug\DataLayer.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\bin\Debug\MySql.Data.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\bin\Debug\MySql.Data.xml
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\obj\Debug\DataLayer.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\obj\Debug\DataLayer.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\bin\Debug\DataLayer.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\bin\Debug\DataLayer.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\bin\Debug\MySql.Data.xml
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\obj\Debug\DataLayer.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\DataLayer\obj\Debug\DataLayer.pdb

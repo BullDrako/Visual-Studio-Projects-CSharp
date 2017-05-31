@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="linq">
+  <DataContextMoniker Name="/linqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f869fa6b-d790-429a-aede-cc2e68d55464" absoluteBounds="0.75, 0.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/linqDataContext/Personal" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1da756ce-dc7c-4cf9-9de7-f94e22344383" absoluteBounds="0.765, 1.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="85424c4e-cf27-4a17-81e2-3267f48a7e97" absoluteBounds="3.5, 1.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/linqDataContext/Administradors" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d2ecf500-a2f4-45a1-8a7e-70571a24f783" absoluteBounds="3.515, 1.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.81814697265625); (3.5 : 1.81814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/linqDataContext/Personal/Personal_Administradors" />
+      <nodes>
+        <classShapeMoniker Id="f869fa6b-d790-429a-aede-cc2e68d55464" />
+        <classShapeMoniker Id="85424c4e-cf27-4a17-81e2-3267f48a7e97" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,138 @@
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+E:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+H:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+H:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+H:\07-Interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarUsuario.resources
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarUsuario.resources
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+E:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarContacto.resources
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormEliminarContacto.resources
+G:\DAM2\uf4\M07_Desarrollo_de_interfaces\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormModificarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormEliminarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormModificarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+\\VBOXSVR\Documents\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarContacto.resources
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormEliminarContacto.resources
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormModificarContacto.resources
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+C:\Users\alumne\Desktop\ManipulaFormularis\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormEliminarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormModificarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+\\VBOXSVR\Documents\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarContacto.resources
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormEliminarContacto.resources
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormModificarContacto.resources
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+D:\Susana\ManipulaFormularisPOO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormEliminarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormModificarContacto.resources
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+\\VBOXSVR\Documents\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarContacto.resources
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormEliminarContacto.resources
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormModificarContacto.resources
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+C:\Users\Alumne\Desktop\ManipulaFormularis_POO\ManipulaFormularisPOO\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe.config
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.exe
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.pdb
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.exe
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\bin\Debug\ManipulaFormularis.pdb
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form1.resources
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Form2.resources
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormBuscarContacto.resources
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormEliminarContacto.resources
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.FormModificarContacto.resources
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\Controls\Solució ExempleDeClase\ManipulaFormularis\ManipulaFormularis\obj\Debug\ManipulaFormularis.csproj.GenerateResource.Cache

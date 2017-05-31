@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Database1" Class="linqDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\Database1.mdf;Integrated Security=True" SettingsObjectName="SQL2LINQ.Properties.Settings" SettingsPropertyName="Database1ConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Personal" Member="Personal">
+    <Type Name="Personal">
+      <Column Name="DNI" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="nom" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="cognom" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="telefon" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="mail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Personal_Administradors" Member="Administradors" ThisKey="DNI" OtherKey="DNI" Type="Administradors" Cardinality="One" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Administradors" Member="Administradors">
+    <Type Name="Administradors">
+      <Column Name="DNI" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="num_SS" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="titulacio" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Personal_Administradors" Member="Personal" ThisKey="DNI" OtherKey="DNI" Type="Personal" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

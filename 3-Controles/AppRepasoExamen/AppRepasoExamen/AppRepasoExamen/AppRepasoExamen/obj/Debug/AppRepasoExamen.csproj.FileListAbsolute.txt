@@ -1,0 +1,34 @@
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\bin\Debug\AppRepasoExamen.exe
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\bin\Debug\AppRepasoExamen.pdb
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.csprojResolveAssemblyReference.cache
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Properties.Resources.resources
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.csproj.GenerateResource.Cache
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.exe
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.pdb
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Form1.resources
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.exe
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.pdb
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\bin\Debug\AppRepasoExamen.exe
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\bin\Debug\AppRepasoExamen.pdb
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.csprojResolveAssemblyReference.cache
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Form1.resources
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Properties.Resources.resources
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.csproj.GenerateResource.Cache
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Agregar.resources
+J:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Actualizar.resources
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Actualizar.resources
+E:\Dam\VisualStudio\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Agregar.resources
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.exe
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.pdb
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\bin\Debug\AppRepasoExamen.exe
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\bin\Debug\AppRepasoExamen.pdb
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.csprojResolveAssemblyReference.cache
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Actualizar.resources
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Agregar.resources
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Form1.resources
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.Properties.Resources.resources
+C:\Users\alumne\Desktop\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\Controls\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.exe
+F:\_CFGS\CFGS DAM\M7\Controls\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.pdb
+E:\_CFGS\CFGS DAM\M7\Controls\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.exe
+E:\_CFGS\CFGS DAM\M7\Controls\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\AppRepasoExamen\obj\Debug\AppRepasoExamen.pdb

@@ -1,0 +1,12 @@
+E:\CFGS DAM\M7\IMC Clase\IMC Clase\bin\Debug\IMC Clase.exe.config
+E:\CFGS DAM\M7\IMC Clase\IMC Clase\bin\Debug\IMC Clase.exe
+E:\CFGS DAM\M7\IMC Clase\IMC Clase\bin\Debug\IMC Clase.pdb
+E:\CFGS DAM\M7\IMC Clase\IMC Clase\obj\Debug\IMC Clase.csprojResolveAssemblyReference.cache
+E:\CFGS DAM\M7\IMC Clase\IMC Clase\obj\Debug\IMC Clase.exe
+E:\CFGS DAM\M7\IMC Clase\IMC Clase\obj\Debug\IMC Clase.pdb
+G:\_CFGS\CFGS DAM\M7\IMC Clase\IMC Clase\bin\Debug\IMC Clase.exe.config
+G:\_CFGS\CFGS DAM\M7\IMC Clase\IMC Clase\obj\Debug\IMC Clase.exe
+G:\_CFGS\CFGS DAM\M7\IMC Clase\IMC Clase\obj\Debug\IMC Clase.pdb
+G:\_CFGS\CFGS DAM\M7\IMC Clase\IMC Clase\bin\Debug\IMC Clase.exe
+G:\_CFGS\CFGS DAM\M7\IMC Clase\IMC Clase\bin\Debug\IMC Clase.pdb
+G:\_CFGS\CFGS DAM\M7\IMC Clase\IMC Clase\obj\Debug\IMC Clase.csprojResolveAssemblyReference.cache

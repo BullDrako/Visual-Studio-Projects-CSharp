@@ -1,0 +1,4 @@
+Pep:Garcia Roca:686666111,698745210,936585656:pep@gmail.com:UF1M3,UF1M4,UF2M4,UF1M5:
+Sole:Gonzalez Leroy:686555222,,936585656:soleg@gmail.com:UF1M3,UF2M3,UF2M4,UF1M7:
+Aitor:Fernandez Olmo:697636985,654789652,934325687:aitor@gmail.com::
+Aturo:Fernandez Teruel:976548752,,939985018:arturo@gmail.com:UF1M1,UF2M2,UF1M3,UF2M4,UF3M5:

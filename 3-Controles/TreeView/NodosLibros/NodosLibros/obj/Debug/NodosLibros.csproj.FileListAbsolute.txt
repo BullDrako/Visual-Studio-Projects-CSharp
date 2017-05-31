@@ -1,0 +1,18 @@
+F:\M07-Desenvolupament d' interficies\Projects\NodosLibros\NodosLibros\bin\Debug\NodosLibros.exe.config
+F:\M07-Desenvolupament d' interficies\Projects\NodosLibros\NodosLibros\bin\Debug\NodosLibros.exe
+F:\M07-Desenvolupament d' interficies\Projects\NodosLibros\NodosLibros\bin\Debug\NodosLibros.pdb
+F:\M07-Desenvolupament d' interficies\Projects\NodosLibros\NodosLibros\obj\Debug\NodosLibros.Form1.resources
+F:\M07-Desenvolupament d' interficies\Projects\NodosLibros\NodosLibros\obj\Debug\NodosLibros.Properties.Resources.resources
+F:\M07-Desenvolupament d' interficies\Projects\NodosLibros\NodosLibros\obj\Debug\NodosLibros.csproj.GenerateResource.Cache
+F:\M07-Desenvolupament d' interficies\Projects\NodosLibros\NodosLibros\obj\Debug\NodosLibros.exe
+F:\M07-Desenvolupament d' interficies\Projects\NodosLibros\NodosLibros\obj\Debug\NodosLibros.pdb
+F:\M07-Desenvolupament d' interficies\Projects\NodosLibros\NodosLibros\obj\Debug\NodosLibros.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\Controls\TreeView\NodosLibros\NodosLibros\bin\Debug\NodosLibros.exe.config
+F:\_CFGS\CFGS DAM\M7\Controls\TreeView\NodosLibros\NodosLibros\obj\Debug\NodosLibros.exe
+F:\_CFGS\CFGS DAM\M7\Controls\TreeView\NodosLibros\NodosLibros\obj\Debug\NodosLibros.pdb
+F:\_CFGS\CFGS DAM\M7\Controls\TreeView\NodosLibros\NodosLibros\bin\Debug\NodosLibros.exe
+F:\_CFGS\CFGS DAM\M7\Controls\TreeView\NodosLibros\NodosLibros\bin\Debug\NodosLibros.pdb
+F:\_CFGS\CFGS DAM\M7\Controls\TreeView\NodosLibros\NodosLibros\obj\Debug\NodosLibros.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\Controls\TreeView\NodosLibros\NodosLibros\obj\Debug\NodosLibros.Form1.resources
+F:\_CFGS\CFGS DAM\M7\Controls\TreeView\NodosLibros\NodosLibros\obj\Debug\NodosLibros.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\Controls\TreeView\NodosLibros\NodosLibros\obj\Debug\NodosLibros.csproj.GenerateResource.Cache

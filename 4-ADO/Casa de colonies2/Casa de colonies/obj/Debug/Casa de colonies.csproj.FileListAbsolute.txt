@@ -1,0 +1,111 @@
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\Casa de colonies.exe.config
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\Casa de colonies.exe.config
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\Casa de colonies.exe
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\Casa de colonies.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\CapaControladora.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\CapaControladora.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa de colonies.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa_de_colonies.FormLogin.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa_de_colonies.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa de colonies.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa de colonies.exe
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa de colonies.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\CapaModel.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\CapaModel.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\MySql.Data.xml
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa_de_colonies.Form1.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa de colonies.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa de colonies.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\Casa de colonies.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\Casa de colonies.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\CapaControladora.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\MySql.Data.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\CapaModel.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\CapaControladora.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\MySql.Data.xml
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\bin\Debug\CapaModel.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa de colonies.csprojResolveAssemblyReference.cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa_de_colonies.Form1.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa_de_colonies.FormLogin.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa_de_colonies.Properties.Resources.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa de colonies.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa_de_colonies.FormAdmin.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies\Casa de colonies\obj\Debug\Casa_de_colonies.FormAdmin.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\Casa de colonies.exe.config
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\Casa de colonies.exe
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\Casa de colonies.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\CapaControladora.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.SqlServer.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\MySql.Data.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\CapaModel.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\CapaControladora.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.xml
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.SqlServer.xml
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\CapaModel.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.csprojResolveAssemblyReference.cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.Form1.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormAdmin.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormLogin.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.Properties.Resources.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\Casa de colonies.exe.config
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\Casa de colonies.exe
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\Casa de colonies.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\CapaControladora.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.SqlServer.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\MySql.Data.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\MySql.Data.Entity.EF6.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\CapaModel.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\CapaControladora.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.xml
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.SqlServer.xml
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\bin\Debug\CapaModel.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.Form1.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormAdmin.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormLogin.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.exe
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormMonitor.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormActivitatCases.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormNens.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormActivitatCases.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormMonitor.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormNens.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormEnregistrarAccio.resources
+F:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormInscripcions.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormEnregistrarAccio.resources
+E:\_CFGS\CFGS DAM\M7\5- ADO\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormInscripcions.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\Casa de colonies.exe.config
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.exe
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.pdb
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\Casa de colonies.exe
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\Casa de colonies.pdb
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\CapaControladora.dll
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.dll
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\MySql.Data.dll
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\CapaModel.dll
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\CapaControladora.pdb
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.xml
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\bin\Debug\CapaModel.pdb
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.Form1.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormActivitatCases.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormAdmin.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormEnregistrarAccio.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormInscripcions.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormLogin.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormMonitor.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.FormNens.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa_de_colonies.Properties.Resources.resources
+C:\Users\Edgar\Downloads\CasaColonies\Casa de colonies2\Casa de colonies\obj\Debug\Casa de colonies.csproj.GenerateResource.Cache

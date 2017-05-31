@@ -1,0 +1,10 @@
+canviar el textbox por listview.
+para modificar:
+seleccionar item y picar en modificar
+al picar saldra lo de modificar con los campos llenos.
+
+para borrar:
+seleccionar item,
+picar en borrar,
+quieres borrar?
+picar en si/no.

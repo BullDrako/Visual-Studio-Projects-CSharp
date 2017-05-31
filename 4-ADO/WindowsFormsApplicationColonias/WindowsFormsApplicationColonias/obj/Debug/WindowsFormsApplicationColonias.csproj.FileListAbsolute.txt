@@ -1,0 +1,14 @@
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\bin\Debug\WindowsFormsApplicationColonias.exe.config
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\bin\Debug\WindowsFormsApplicationColonias.exe
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\bin\Debug\WindowsFormsApplicationColonias.pdb
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\bin\Debug\MySql.Data.dll
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\bin\Debug\MySql.Data.xml
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\obj\Debug\WindowsFormsApplicationColonias.csprojResolveAssemblyReference.cache
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\obj\Debug\WindowsFormsApplicationColonias.Form1.resources
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\obj\Debug\WindowsFormsApplicationColonias.Properties.Resources.resources
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\obj\Debug\WindowsFormsApplicationColonias.csproj.GenerateResource.Cache
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\obj\Debug\WindowsFormsApplicationColonias.exe
+c:\users\edgar\documents\visual studio 2015\Projects\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\obj\Debug\WindowsFormsApplicationColonias.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\bin\Debug\WindowsFormsApplicationColonias.exe.config
+F:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\obj\Debug\WindowsFormsApplicationColonias.exe
+F:\_CFGS\CFGS DAM\M7\5- ADO\WindowsFormsApplicationColonias\WindowsFormsApplicationColonias\obj\Debug\WindowsFormsApplicationColonias.pdb

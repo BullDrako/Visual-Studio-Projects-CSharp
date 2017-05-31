@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="casacoloniesModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.5" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="actividad_casa">
+    <Key>
+      <PropertyRef Name="codigo_actividad" />
+      <PropertyRef Name="codigo_casa" />
+    </Key>
+    <Property Name="codigo_actividad" Type="int" Nullable="false" />
+    <Property Name="codigo_casa" Type="int" Nullable="false" />
+    <Property Name="nivel" Type="int" Nullable="false" />
+    <Property Name="calidad" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="activitat">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="descripcion" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="administra_casa">
+    <Key>
+      <PropertyRef Name="dni_administrador" />
+      <PropertyRef Name="codigo_casa" />
+    </Key>
+    <Property Name="dni_administrador" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="codigo_casa" Type="int" Nullable="false" />
+    <Property Name="año" Type="int" Nullable="false" />
+    <Property Name="sueldo" Type="float" Nullable="false" />
+  </EntityType>
+  <EntityType Name="administrador">
+    <Key>
+      <PropertyRef Name="dni" />
+    </Key>
+    <Property Name="dni" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="num_SS" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="titulacion" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="casa">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="litoral" Type="bool" Nullable="false" />
+    <Property Name="codigo_comarca" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="comarca">
+    <Key>
+      <PropertyRef Name="codigo_comarca" />
+    </Key>
+    <Property Name="codigo_comarca" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="inscripciones_casa_tanda">
+    <Key>
+      <PropertyRef Name="carnet_niño" />
+      <PropertyRef Name="fecha_inicio" />
+    </Key>
+    <Property Name="carnet_niño" Type="int" Nullable="false" />
+    <Property Name="fecha_inicio" Type="date" Nullable="false" />
+    <Property Name="nombre_casa" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="numero_inscripcion" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="monitor">
+    <Key>
+      <PropertyRef Name="dni" />
+    </Key>
+    <Property Name="dni" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="fecha_nacimiento" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="monitor_tanda_casa">
+    <Key>
+      <PropertyRef Name="dni" />
+      <PropertyRef Name="fecha_tanda" />
+    </Key>
+    <Property Name="dni" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="fecha_tanda" Type="date" Nullable="false" />
+    <Property Name="codigo_casa" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="monitor_tareas_tanda">
+    <Key>
+      <PropertyRef Name="dni_monitor" />
+      <PropertyRef Name="codigo_tarea" />
+      <PropertyRef Name="fecha_inicio_tanda" />
+    </Key>
+    <Property Name="dni_monitor" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="codigo_tarea" Type="int" Nullable="false" />
+    <Property Name="fecha_inicio_tanda" Type="date" Nullable="false" />
+    <Property Name="dia_tarea" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="niño">
+    <Key>
+      <PropertyRef Name="carnet" />
+    </Key>
+    <Property Name="carnet" Type="int" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="apellidos" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="direccion" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="sexo" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="año_nacimiento" Type="int" Nullable="false" />
+    <Property Name="codigo_poblacion" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="niño_emparentado">
+    <Key>
+      <PropertyRef Name="carnet_niño" />
+    </Key>
+    <Property Name="carnet_niño" Type="int" Nullable="false" />
+    <Property Name="carnet_hermano" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="personal">
+    <Key>
+      <PropertyRef Name="dni" />
+    </Key>
+    <Property Name="dni" Type="varchar" MaxLength="10" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="apellidos" Type="varchar" MaxLength="40" Nullable="false" />
+    <Property Name="telefono" Type="int" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="poblacio">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tanda">
+    <Key>
+      <PropertyRef Name="fecha_inicio" />
+    </Key>
+    <Property Name="fecha_inicio" Type="date" Nullable="false" />
+    <Property Name="fecha_fin" Type="date" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tareas">
+    <Key>
+      <PropertyRef Name="codigo_tareas" />
+    </Key>
+    <Property Name="codigo_tareas" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="descripcion" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="casacoloniesModelStoreContainer">
+    <EntitySet Name="actividad_casa" EntityType="Self.actividad_casa" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="activitat" EntityType="Self.activitat" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="administra_casa" EntityType="Self.administra_casa" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="administrador" EntityType="Self.administrador" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="casa" EntityType="Self.casa" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="comarca" EntityType="Self.comarca" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="inscripciones_casa_tanda" EntityType="Self.inscripciones_casa_tanda" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="monitor" EntityType="Self.monitor" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="monitor_tanda_casa" EntityType="Self.monitor_tanda_casa" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="monitor_tareas_tanda" EntityType="Self.monitor_tareas_tanda" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="niño" EntityType="Self.niño" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="niño_emparentado" EntityType="Self.niño_emparentado" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="personal" EntityType="Self.personal" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="poblacio" EntityType="Self.poblacio" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="tanda" EntityType="Self.tanda" Schema="casacolonies" store:Type="Tables" />
+    <EntitySet Name="tareas" EntityType="Self.tareas" Schema="casacolonies" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

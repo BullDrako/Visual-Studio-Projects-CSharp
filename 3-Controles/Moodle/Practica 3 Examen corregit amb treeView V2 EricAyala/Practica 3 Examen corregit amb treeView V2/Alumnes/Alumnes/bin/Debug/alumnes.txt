@@ -1,0 +1,5 @@
+Eric;Ayala Andreu;678542358;654789521;933456789;eric@gmail.com; UF1, UF2;
+Olga;Coll Pérez;678542359;654789522;933456790;olga@gmail.com; UF1;
+Dani;Córdoba;678542360;654789523;933456791;dani@gmail.com; UF2;
+Miquel;Moran;678542361;654789524;933456792;jose@gmail.com; UF3;
+Silvia;Ayala Andreu;689098897;698989999;933456789;silvia@gmail.com;Uf1;

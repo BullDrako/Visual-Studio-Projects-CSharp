@@ -1,0 +1,12 @@
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 7\Exercici basic II 7\bin\Debug\Exercici basic II 7.exe.config
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 7\Exercici basic II 7\obj\Debug\Exercici basic II 7.csprojResolveAssemblyReference.cache
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 7\Exercici basic II 7\bin\Debug\Exercici basic II 7.exe
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 7\Exercici basic II 7\bin\Debug\Exercici basic II 7.pdb
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 7\Exercici basic II 7\obj\Debug\Exercici basic II 7.exe
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic II 7\Exercici basic II 7\obj\Debug\Exercici basic II 7.pdb
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 7\Exercici basic II 7\bin\Debug\Exercici basic II 7.exe.config
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 7\Exercici basic II 7\obj\Debug\Exercici basic II 7.exe
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 7\Exercici basic II 7\obj\Debug\Exercici basic II 7.pdb
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 7\Exercici basic II 7\bin\Debug\Exercici basic II 7.exe
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 7\Exercici basic II 7\bin\Debug\Exercici basic II 7.pdb
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 7\Exercici basic II 7\obj\Debug\Exercici basic II 7.csprojResolveAssemblyReference.cache

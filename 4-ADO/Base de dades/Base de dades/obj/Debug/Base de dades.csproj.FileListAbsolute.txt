@@ -1,0 +1,2 @@
+E:\_CFGS\CFGS DAM\M7\5- ADO\Base de dades\Base de dades\bin\Debug\Base de dades.exe.config
+F:\_CFGS\CFGS DAM\M7\5- ADO\Base de dades\Base de dades\bin\Debug\Base de dades.exe.config

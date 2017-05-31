@@ -1,0 +1,6 @@
+/media/alumne/My Passport/_CFGS/CFGS DAM/M7/MonoDevelop/ElMeuPrimerProjecte/ElMeuPrimerProjecte/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/alumne/My Passport/_CFGS/CFGS DAM/M7/MonoDevelop/ElMeuPrimerProjecte/ElMeuPrimerProjecte/obj/x86/Debug/ElMeuPrimerProjecte.gtk-gui.gui.stetic
+/media/alumne/My Passport/_CFGS/CFGS DAM/M7/MonoDevelop/ElMeuPrimerProjecte/ElMeuPrimerProjecte/bin/Debug/ElMeuPrimerProjecte.exe.mdb
+/media/alumne/My Passport/_CFGS/CFGS DAM/M7/MonoDevelop/ElMeuPrimerProjecte/ElMeuPrimerProjecte/bin/Debug/ElMeuPrimerProjecte.exe
+/media/alumne/My Passport/_CFGS/CFGS DAM/M7/MonoDevelop/ElMeuPrimerProjecte/ElMeuPrimerProjecte/obj/x86/Debug/ElMeuPrimerProjecte.exe
+/media/alumne/My Passport/_CFGS/CFGS DAM/M7/MonoDevelop/ElMeuPrimerProjecte/ElMeuPrimerProjecte/obj/x86/Debug/ElMeuPrimerProjecte.exe.mdb

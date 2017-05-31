@@ -1,0 +1,17 @@
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\Exercici6GTK.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\Exercici6GTK.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\atk-sharp.dll
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\gdk-sharp.dll
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\glade-sharp.dll
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\glib-sharp.dll
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\gtk-sharp.dll
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\Mono.Posix.dll
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\pango-sharp.dll
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\gdk-sharp.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\glib-sharp.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\glade-sharp.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\pango-sharp.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\bin\Debug\atk-sharp.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\obj\x86\Debug\Exercici6GTK.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\obj\x86\Debug\Exercici6GTK.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Exercici6GTK\Exercici6GTK\obj\x86\Debug\Exercici6GTK.pdb

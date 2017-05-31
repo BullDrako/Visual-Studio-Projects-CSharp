@@ -1,0 +1,9 @@
+F:\_CFGS\CFGS DAM\M7\LecturaFicheros\LecturaFicheros\bin\Debug\LecturaFicheros.exe.config
+F:\_CFGS\CFGS DAM\M7\LecturaFicheros\LecturaFicheros\bin\Debug\LecturaFicheros.exe
+F:\_CFGS\CFGS DAM\M7\LecturaFicheros\LecturaFicheros\bin\Debug\LecturaFicheros.pdb
+F:\_CFGS\CFGS DAM\M7\LecturaFicheros\LecturaFicheros\obj\Debug\LecturaFicheros.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\LecturaFicheros\LecturaFicheros\obj\Debug\LecturaFicheros.exe
+F:\_CFGS\CFGS DAM\M7\LecturaFicheros\LecturaFicheros\obj\Debug\LecturaFicheros.pdb
+F:\_CFGS\CFGS DAM\M7\Aplicaciones de consola\LecturaFicheros\LecturaFicheros\bin\Debug\LecturaFicheros.exe.config
+F:\_CFGS\CFGS DAM\M7\Aplicaciones de consola\LecturaFicheros\LecturaFicheros\obj\Debug\LecturaFicheros.exe
+F:\_CFGS\CFGS DAM\M7\Aplicaciones de consola\LecturaFicheros\LecturaFicheros\obj\Debug\LecturaFicheros.pdb

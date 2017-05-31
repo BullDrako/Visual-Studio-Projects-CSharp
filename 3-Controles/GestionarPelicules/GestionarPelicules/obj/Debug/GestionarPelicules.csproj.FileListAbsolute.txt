@@ -1,0 +1,11 @@
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\bin\Debug\GestionarPelicules.exe.config
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\bin\Debug\GestionarPelicules.exe
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\bin\Debug\GestionarPelicules.pdb
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\obj\Debug\GestionarPelicules.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\obj\Debug\GestionarPelicules.Form1.resources
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\obj\Debug\GestionarPelicules.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\obj\Debug\GestionarPelicules.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\obj\Debug\GestionarPelicules.exe
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\obj\Debug\GestionarPelicules.pdb
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\obj\Debug\GestionarPelicules.AfegirForm.resources
+F:\_CFGS\CFGS DAM\M7\Controls\GestionarPelicules\GestionarPelicules\obj\Debug\GestionarPelicules.editarForm.resources

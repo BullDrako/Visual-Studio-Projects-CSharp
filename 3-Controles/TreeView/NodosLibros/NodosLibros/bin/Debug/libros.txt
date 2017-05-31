@@ -1,0 +1,2 @@
+12345678;El señor de los anillos;20;La trilogia;JR;Planeta;El señor de los anillos;martes, 10 de diciembre de 2013;
+472352;Eragon;40;La trilogia de Eragon;Fichini;Editorial Libros;Eragon;jueves, 28 de noviembre de 2013;

@@ -1,0 +1,9 @@
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Properties.Resources.resources
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.csproj.GenerateResource.Cache
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+F:\_CFGS\CFGS DAM\M7\MonoDevelop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb

@@ -1,0 +1,18 @@
+D:\Visual Studio 2015\Projects\BotonHola\BotonHola\bin\Debug\BotonHola.exe.config
+D:\Visual Studio 2015\Projects\BotonHola\BotonHola\bin\Debug\BotonHola.exe
+D:\Visual Studio 2015\Projects\BotonHola\BotonHola\bin\Debug\BotonHola.pdb
+D:\Visual Studio 2015\Projects\BotonHola\BotonHola\obj\Debug\BotonHola.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\BotonHola\BotonHola\obj\Debug\BotonHola.Form1.resources
+D:\Visual Studio 2015\Projects\BotonHola\BotonHola\obj\Debug\BotonHola.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\BotonHola\BotonHola\obj\Debug\BotonHola.csproj.GenerateResource.Cache
+D:\Visual Studio 2015\Projects\BotonHola\BotonHola\obj\Debug\BotonHola.exe
+D:\Visual Studio 2015\Projects\BotonHola\BotonHola\obj\Debug\BotonHola.pdb
+E:\CFGS DAM\M7\BotonHola\BotonHola\bin\Debug\BotonHola.exe.config
+E:\CFGS DAM\M7\BotonHola\BotonHola\obj\Debug\BotonHola.exe
+E:\CFGS DAM\M7\BotonHola\BotonHola\obj\Debug\BotonHola.pdb
+E:\CFGS DAM\M7\BotonHola\BotonHola\bin\Debug\BotonHola.exe
+E:\CFGS DAM\M7\BotonHola\BotonHola\bin\Debug\BotonHola.pdb
+E:\CFGS DAM\M7\BotonHola\BotonHola\obj\Debug\BotonHola.csprojResolveAssemblyReference.cache
+E:\CFGS DAM\M7\BotonHola\BotonHola\obj\Debug\BotonHola.Form1.resources
+E:\CFGS DAM\M7\BotonHola\BotonHola\obj\Debug\BotonHola.Properties.Resources.resources
+E:\CFGS DAM\M7\BotonHola\BotonHola\obj\Debug\BotonHola.csproj.GenerateResource.Cache

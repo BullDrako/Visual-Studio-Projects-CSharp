@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="casacoloniesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="actividad_casa">
+    <Key>
+      <PropertyRef Name="codigo_actividad" />
+      <PropertyRef Name="codigo_casa" />
+    </Key>
+    <Property Name="codigo_actividad" Type="Int32" Nullable="false" />
+    <Property Name="codigo_casa" Type="Int32" Nullable="false" />
+    <Property Name="nivel" Type="Int32" Nullable="false" />
+    <Property Name="calidad" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="activitat">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="administra_casa">
+    <Key>
+      <PropertyRef Name="dni_administrador" />
+      <PropertyRef Name="codigo_casa" />
+    </Key>
+    <Property Name="dni_administrador" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="codigo_casa" Type="Int32" Nullable="false" />
+    <Property Name="año" Type="Int32" Nullable="false" />
+    <Property Name="sueldo" Type="Single" Nullable="false" />
+  </EntityType>
+  <EntityType Name="administrador">
+    <Key>
+      <PropertyRef Name="dni" />
+    </Key>
+    <Property Name="dni" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="num_SS" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="titulacion" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="casa">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="litoral" Type="Boolean" Nullable="false" />
+    <Property Name="codigo_comarca" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="comarca">
+    <Key>
+      <PropertyRef Name="codigo_comarca" />
+    </Key>
+    <Property Name="codigo_comarca" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="inscripciones_casa_tanda">
+    <Key>
+      <PropertyRef Name="carnet_niño" />
+      <PropertyRef Name="fecha_inicio" />
+    </Key>
+    <Property Name="carnet_niño" Type="Int32" Nullable="false" />
+    <Property Name="fecha_inicio" Type="DateTime" Nullable="false" />
+    <Property Name="nombre_casa" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="numero_inscripcion" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="monitor">
+    <Key>
+      <PropertyRef Name="dni" />
+    </Key>
+    <Property Name="dni" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha_nacimiento" Type="DateTime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="monitor_tanda_casa">
+    <Key>
+      <PropertyRef Name="dni" />
+      <PropertyRef Name="fecha_tanda" />
+    </Key>
+    <Property Name="dni" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fecha_tanda" Type="DateTime" Nullable="false" />
+    <Property Name="codigo_casa" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="monitor_tareas_tanda">
+    <Key>
+      <PropertyRef Name="dni_monitor" />
+      <PropertyRef Name="codigo_tarea" />
+      <PropertyRef Name="fecha_inicio_tanda" />
+    </Key>
+    <Property Name="dni_monitor" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="codigo_tarea" Type="Int32" Nullable="false" />
+    <Property Name="fecha_inicio_tanda" Type="DateTime" Nullable="false" />
+    <Property Name="dia_tarea" Type="DateTime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="niño">
+    <Key>
+      <PropertyRef Name="carnet" />
+    </Key>
+    <Property Name="carnet" Type="Int32" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="apellidos" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="direccion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="sexo" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="año_nacimiento" Type="Int32" Nullable="false" />
+    <Property Name="codigo_poblacion" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="niño_emparentado">
+    <Key>
+      <PropertyRef Name="carnet_niño" />
+    </Key>
+    <Property Name="carnet_niño" Type="Int32" Nullable="false" />
+    <Property Name="carnet_hermano" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="personal">
+    <Key>
+      <PropertyRef Name="dni" />
+    </Key>
+    <Property Name="dni" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="apellidos" Type="String" MaxLength="40" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono" Type="Int32" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="poblacio">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombre" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tanda">
+    <Key>
+      <PropertyRef Name="fecha_inicio" />
+    </Key>
+    <Property Name="fecha_inicio" Type="DateTime" Nullable="false" />
+    <Property Name="fecha_fin" Type="DateTime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="tareas">
+    <Key>
+      <PropertyRef Name="codigo_tareas" />
+    </Key>
+    <Property Name="codigo_tareas" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="casacoloniesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="actividad_casa" EntityType="Self.actividad_casa" />
+    <EntitySet Name="activitat" EntityType="Self.activitat" />
+    <EntitySet Name="administra_casa" EntityType="Self.administra_casa" />
+    <EntitySet Name="administrador" EntityType="Self.administrador" />
+    <EntitySet Name="casa" EntityType="Self.casa" />
+    <EntitySet Name="comarca" EntityType="Self.comarca" />
+    <EntitySet Name="inscripciones_casa_tanda" EntityType="Self.inscripciones_casa_tanda" />
+    <EntitySet Name="monitor" EntityType="Self.monitor" />
+    <EntitySet Name="monitor_tanda_casa" EntityType="Self.monitor_tanda_casa" />
+    <EntitySet Name="monitor_tareas_tanda" EntityType="Self.monitor_tareas_tanda" />
+    <EntitySet Name="niño" EntityType="Self.niño" />
+    <EntitySet Name="niño_emparentado" EntityType="Self.niño_emparentado" />
+    <EntitySet Name="personal" EntityType="Self.personal" />
+    <EntitySet Name="poblacio" EntityType="Self.poblacio" />
+    <EntitySet Name="tanda" EntityType="Self.tanda" />
+    <EntitySet Name="tareas" EntityType="Self.tareas" />
+  </EntityContainer>
+</Schema>

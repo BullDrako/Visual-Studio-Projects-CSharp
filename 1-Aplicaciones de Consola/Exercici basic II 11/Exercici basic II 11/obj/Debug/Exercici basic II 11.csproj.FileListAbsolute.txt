@@ -1,0 +1,6 @@
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 11\Exercici basic II 11\bin\Debug\Exercici basic II 11.exe.config
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 11\Exercici basic II 11\bin\Debug\Exercici basic II 11.exe
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 11\Exercici basic II 11\bin\Debug\Exercici basic II 11.pdb
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 11\Exercici basic II 11\obj\Debug\Exercici basic II 11.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 11\Exercici basic II 11\obj\Debug\Exercici basic II 11.exe
+F:\_CFGS\CFGS DAM\M7\Exercici basic II 11\Exercici basic II 11\obj\Debug\Exercici basic II 11.pdb

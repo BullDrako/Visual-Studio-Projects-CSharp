@@ -1,0 +1,12 @@
+D:\Visual Studio 2015\Projects\consolaProves\consolaProves\bin\Debug\consolaProves.exe.config
+D:\Visual Studio 2015\Projects\consolaProves\consolaProves\bin\Debug\consolaProves.exe
+D:\Visual Studio 2015\Projects\consolaProves\consolaProves\bin\Debug\consolaProves.pdb
+D:\Visual Studio 2015\Projects\consolaProves\consolaProves\obj\Debug\consolaProves.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\consolaProves\consolaProves\obj\Debug\consolaProves.exe
+D:\Visual Studio 2015\Projects\consolaProves\consolaProves\obj\Debug\consolaProves.pdb
+E:\CFGS DAM\M7\Crea una carpeta\consolaProves\consolaProves\bin\Debug\consolaProves.exe.config
+E:\CFGS DAM\M7\Crea una carpeta\consolaProves\consolaProves\obj\Debug\consolaProves.exe
+E:\CFGS DAM\M7\Crea una carpeta\consolaProves\consolaProves\obj\Debug\consolaProves.pdb
+E:\CFGS DAM\M7\Crea una carpeta\consolaProves\consolaProves\bin\Debug\consolaProves.exe
+E:\CFGS DAM\M7\Crea una carpeta\consolaProves\consolaProves\bin\Debug\consolaProves.pdb
+E:\CFGS DAM\M7\Crea una carpeta\consolaProves\consolaProves\obj\Debug\consolaProves.csprojResolveAssemblyReference.cache

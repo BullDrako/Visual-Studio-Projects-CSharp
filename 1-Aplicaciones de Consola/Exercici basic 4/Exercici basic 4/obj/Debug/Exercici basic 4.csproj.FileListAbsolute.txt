@@ -1,0 +1,9 @@
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic 4\Exercici basic 4\bin\Debug\Exercici basic 4.exe.config
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic 4\Exercici basic 4\bin\Debug\Exercici basic 4.exe
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic 4\Exercici basic 4\bin\Debug\Exercici basic 4.pdb
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic 4\Exercici basic 4\obj\Debug\Exercici basic 4.exe
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic 4\Exercici basic 4\obj\Debug\Exercici basic 4.pdb
+c:\users\edgar\documents\visual studio 2015\Projects\Exercici basic 4\Exercici basic 4\obj\Debug\Exercici basic 4.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\Exercici basic 4\Exercici basic 4\bin\Debug\Exercici basic 4.exe.config
+F:\_CFGS\CFGS DAM\M7\Exercici basic 4\Exercici basic 4\obj\Debug\Exercici basic 4.exe
+F:\_CFGS\CFGS DAM\M7\Exercici basic 4\Exercici basic 4\obj\Debug\Exercici basic 4.pdb

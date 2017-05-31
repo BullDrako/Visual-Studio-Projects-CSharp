@@ -1,0 +1,35 @@
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\obj\Debug\ControllerLayer.csprojResolveAssemblyReference.cache
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.dll
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.dll
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.pdb
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.dll
+E:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.dll
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.dll
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.pdb
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\obj\Debug\ControllerLayer.csprojResolveAssemblyReference.cache
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.dll
+G:\M07 - Desenvolupament d'interfícies\Confecció d'interfícies\ADO.NET\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.dll
+E:\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.dll
+E:\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.pdb
+E:\ExempleConnection\PresentationLayer\obj\Debug\ControllerLayer.csprojResolveAssemblyReference.cache
+E:\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.dll
+E:\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\obj\Debug\ControllerLayer.csprojResolveAssemblyReference.cache
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.pdb
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\obj\Debug\ControllerLayer.csprojResolveAssemblyReference.cache
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.dll
+F:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\obj\Debug\PresentationLayer.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\bin\Debug\PresentationLayer.pdb
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.dll
+E:\_CFGS\CFGS DAM\M7\5- ADO\ExempleConnection\PresentationLayer\bin\Debug\DataLayer.pdb

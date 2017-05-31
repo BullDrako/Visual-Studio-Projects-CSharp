@@ -1,0 +1,11 @@
+string[] array = { "dot", "", "net", null, null, "perls", null };
+
+var result1 = array.Where(item => item != null);
+
+es igual
+
+var result1 = from item in array
+		where item != null
+		select item;
+
+from item in array es igual a la part de item =>

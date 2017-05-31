@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrador\Mis documentos\SharpDevelop Projects\ahorcado\ahorcado\bin\Debug\ahorcado.exe
+C:\Documents and Settings\Administrador\Mis documentos\SharpDevelop Projects\ahorcado\ahorcado\bin\Debug\ahorcado.pdb
+C:\Documents and Settings\Administrador\Mis documentos\SharpDevelop Projects\ahorcado\ahorcado\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\SharpDevelop Projects\ahorcado\ahorcado\obj\x86\Debug\ahorcado.MainForm.resources
+C:\Documents and Settings\Administrador\Mis documentos\SharpDevelop Projects\ahorcado\ahorcado\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\SharpDevelop Projects\ahorcado\ahorcado\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrador\Mis documentos\SharpDevelop Projects\ahorcado\ahorcado\obj\x86\Debug\ahorcado.exe
+C:\Documents and Settings\Administrador\Mis documentos\SharpDevelop Projects\ahorcado\ahorcado\obj\x86\Debug\ahorcado.pdb
+C:\Users\Edgar\Downloads\ahorcadoCsharp\ahorcado\ahorcado\obj\x86\Debug\ahorcado.exe
+C:\Users\Edgar\Downloads\ahorcadoCsharp\ahorcado\ahorcado\obj\x86\Debug\ahorcado.pdb
+C:\Users\Edgar\Downloads\ahorcadoCsharp\ahorcado\ahorcado\bin\Debug\ahorcado.exe
+C:\Users\Edgar\Downloads\ahorcadoCsharp\ahorcado\ahorcado\bin\Debug\ahorcado.pdb
+C:\Users\Edgar\Downloads\ahorcadoCsharp\ahorcado\ahorcado\obj\x86\Debug\ahorcado.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Downloads\ahorcadoCsharp\ahorcado\ahorcado\obj\x86\Debug\ahorcado.MainForm.resources
+C:\Users\Edgar\Downloads\ahorcadoCsharp\ahorcado\ahorcado\obj\x86\Debug\ahorcado.csproj.GenerateResource.Cache
